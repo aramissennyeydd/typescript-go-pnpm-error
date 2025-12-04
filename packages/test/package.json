@@ -15,11 +15,9 @@
     "@testing-library/react": "^16.3.0",
     "@types/node": "^24.10.1",
     "@types/react": "^19.2.7",
-    "@types/styled-components": "^5.1.36",
     "@typescript/native-preview": "7.0.0-dev.20251204.1",
-    "react": "^18.3.1",
-    "styled-components": "^6.1.19"
-  },
+    "react": "^18.3.1"
+},
   "devDependencies": {
     "react-dom": "^18.3.1"
   }

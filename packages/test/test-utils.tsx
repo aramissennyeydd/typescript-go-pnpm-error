@@ -1,6 +1,5 @@
 import React from 'react';
 import { render, RenderResult, RenderOptions } from '@testing-library/react';
-import { ThemeProvider } from 'styled-components';
 
 const customRender = (
   ui: React.ReactElement<any>,
