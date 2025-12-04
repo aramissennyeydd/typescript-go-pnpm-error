@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "tsgo": "tsgo"
+    "tsgo": "tsgo",
+    "tsc": "tsc"
   },
   "keywords": [],
   "author": "",
@@ -16,8 +17,9 @@
     "@types/node": "^24.10.1",
     "@types/react": "^19.2.7",
     "@typescript/native-preview": "7.0.0-dev.20251204.1",
-    "react": "^18.3.1"
-},
+    "react": "^18.3.1",
+    "typescript": "^5.9.3"
+  },
   "devDependencies": {
     "react-dom": "^18.3.1"
   }

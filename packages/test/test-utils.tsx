@@ -8,6 +8,6 @@ const customRender = (
   render(ui, {
     wrapper: () => <></>,
     ...options,
-  })
+  }) as RenderResult
 
 export {customRender as render};
